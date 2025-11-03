@@ -28,3 +28,5 @@ P2P онлайн игра ( Глобальное подключение ) :
 Установить игру на Windows, MacOS, Android можно на этом Github репозитории по ссылке : https://github.com/duplosha/velora_project в разделе releases.
 
 Планируемая дата выхода игры / Релиз : 2025/2026 год
+
+Copyright © Duplosha 2025
